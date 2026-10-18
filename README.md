@@ -1,0 +1,1 @@
+wip, if you wanna try using zig 0.16.0 to `zig build run` this at root then you can, you will get a text prompt and some debug text (unless you're on powershell, then you will get an error bc this was made with wsl)
